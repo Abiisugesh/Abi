@@ -1,0 +1,32 @@
+.footer {
+    background-color: #26323a; /* White background */
+    color: #e5ecf3; /* Dark text */
+    text-align: center;
+    padding: 1.5rem;
+    border-top: 1px solid #ddd; /* Subtle top border */
+    font-size: 1rem;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: white;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .social-icons a {
+    font-size: 1.5rem;
+    color: #3498db; /* Light blue color */
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #2c3e50; /* Darker shade on hover */
+  }
+  
