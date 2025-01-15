@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Abiisugesh/Abisugesh.git/static/css/main.89d849bb.css",
+    "main.js": "/Abiisugesh/Abisugesh.git/static/js/main.0d9b2841.js",
+    "static/js/453.b29a6796.chunk.js": "/Abiisugesh/Abisugesh.git/static/js/453.b29a6796.chunk.js",
+    "static/media/AbiSugesh.pdf": "/Abiisugesh/Abisugesh.git/static/media/AbiSugesh.7b152216ec4bac0021c1.pdf",
+    "static/media/Abisugesh.png": "/Abiisugesh/Abisugesh.git/static/media/Abisugesh.709545736676c45b19c4.png",
+    "index.html": "/Abiisugesh/Abisugesh.git/index.html",
+    "main.89d849bb.css.map": "/Abiisugesh/Abisugesh.git/static/css/main.89d849bb.css.map",
+    "main.0d9b2841.js.map": "/Abiisugesh/Abisugesh.git/static/js/main.0d9b2841.js.map",
+    "453.b29a6796.chunk.js.map": "/Abiisugesh/Abisugesh.git/static/js/453.b29a6796.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d849bb.css",
+    "static/js/main.0d9b2841.js"
+  ]
+}
